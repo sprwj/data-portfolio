@@ -1,2 +1,2 @@
 # data-portfolio
-Profesional dat portofolio showcasing projects for analytic
+Professional data portfolio showcasing analytics projects and visualizations
